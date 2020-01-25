@@ -1,1 +1,2 @@
 # Pub_Reader
+Experimentation with different machine learning algorithms to classify medical literature by study type. A dataset of ~ 2000 abstracts from PubMed were used to train models to classify RCT and non RCT studies based on abstract text only. Next steps will be to classify other types of study design, extract salient features from abstract text (e.g. interventions, disease type etc.), and scrape data from full text publications
